@@ -1,0 +1,7 @@
+C:\Users\Aishe\Desktop\p111\C#\24.06.2019\ClassLesson\ClassLesson\bin\Debug\ClassLesson.exe.config
+C:\Users\Aishe\Desktop\p111\C#\24.06.2019\ClassLesson\ClassLesson\bin\Debug\ClassLesson.exe
+C:\Users\Aishe\Desktop\p111\C#\24.06.2019\ClassLesson\ClassLesson\bin\Debug\ClassLesson.pdb
+C:\Users\Aishe\Desktop\p111\C#\24.06.2019\ClassLesson\ClassLesson\obj\Debug\ClassLesson.csprojAssemblyReference.cache
+C:\Users\Aishe\Desktop\p111\C#\24.06.2019\ClassLesson\ClassLesson\obj\Debug\ClassLesson.csproj.CoreCompileInputs.cache
+C:\Users\Aishe\Desktop\p111\C#\24.06.2019\ClassLesson\ClassLesson\obj\Debug\ClassLesson.exe
+C:\Users\Aishe\Desktop\p111\C#\24.06.2019\ClassLesson\ClassLesson\obj\Debug\ClassLesson.pdb
