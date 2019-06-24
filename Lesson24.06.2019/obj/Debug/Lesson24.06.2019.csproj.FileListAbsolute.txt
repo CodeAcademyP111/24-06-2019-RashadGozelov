@@ -1,0 +1,7 @@
+C:\Users\Code Academy\Desktop\c#\Lesson24.06.2019\Lesson24.06.2019\bin\Debug\Lesson24.06.2019.exe.config
+C:\Users\Code Academy\Desktop\c#\Lesson24.06.2019\Lesson24.06.2019\bin\Debug\Lesson24.06.2019.exe
+C:\Users\Code Academy\Desktop\c#\Lesson24.06.2019\Lesson24.06.2019\bin\Debug\Lesson24.06.2019.pdb
+C:\Users\Code Academy\Desktop\c#\Lesson24.06.2019\Lesson24.06.2019\obj\Debug\Lesson24.06.2019.csprojAssemblyReference.cache
+C:\Users\Code Academy\Desktop\c#\Lesson24.06.2019\Lesson24.06.2019\obj\Debug\Lesson24.06.2019.csproj.CoreCompileInputs.cache
+C:\Users\Code Academy\Desktop\c#\Lesson24.06.2019\Lesson24.06.2019\obj\Debug\Lesson24.06.2019.exe
+C:\Users\Code Academy\Desktop\c#\Lesson24.06.2019\Lesson24.06.2019\obj\Debug\Lesson24.06.2019.pdb
